@@ -2,8 +2,16 @@
 
 Este repositório contém exercícios práticos de SQL para estudo.
 
-## Conteúdos
-- SELECT
+## Conteúdos Respostas
+- SELECT * FROM
 - WHERE
 - ORDER BY
 - TOP *
+
+
+## Conteúdos Respostas2
+- Utilizando operadores lógicos: <, >, <=, >=
+- AND e OR 
+- BETWEEN
+- IN
+- LIKE
