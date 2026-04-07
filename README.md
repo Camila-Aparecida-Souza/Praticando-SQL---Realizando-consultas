@@ -15,3 +15,9 @@ Este repositório contém exercícios práticos de SQL para estudo.
 - BETWEEN
 - IN
 - LIKE
+
+
+## Conteúdos Respostas3
+- Funções de string
+- CONCAT, LEN e SUBSTRING 
+- LOWER, UPPER, TRIM (LTRIM e RTRIM) e REPLACE
