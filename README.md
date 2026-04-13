@@ -21,3 +21,9 @@ Este repositório contém exercícios práticos de SQL para estudo.
 - Funções de string
 - CONCAT, LEN e SUBSTRING 
 - LOWER, UPPER, TRIM (LTRIM e RTRIM) e REPLACE
+
+
+## Conteúdos Respostas4
+- Funções de data
+- GETDATE, CAST, FORMAT, DATEDIFF, DATEPART, DATEADD 
+- CASE WHEN
