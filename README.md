@@ -27,3 +27,11 @@ Este repositório contém exercícios práticos de SQL para estudo.
 - Funções de data
 - GETDATE, CAST, FORMAT, DATEDIFF, DATEPART, DATEADD 
 - CASE WHEN
+
+
+## Conteúdos Respostas5
+- Funções numéricas
+- Operadores (+, -, *, /, %)
+- ROUND, CEILING e FLOOR
+- ABS
+- POWER e SQRT
