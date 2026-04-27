@@ -35,3 +35,10 @@ Este repositório contém exercícios práticos de SQL para estudo.
 - ROUND, CEILING e FLOOR
 - ABS
 - POWER e SQRT
+
+
+## Conteúdos Respostas6
+- Funções de agregação
+- SUM, AVG, COUNT, MAX, MIN
+- GROUP BY
+- HAVING
